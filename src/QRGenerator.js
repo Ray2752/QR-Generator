@@ -46,7 +46,7 @@ function QRGenerator() {
 
   return (
     <div className="qr-generator">
-      <h1>GENERADOR DE CÓDIGOS QR</h1>
+      <h1>QR GENERATOR</h1>
       
       <div className="input-group">
         <label htmlFor="url-input">Introduce una URL:</label>
